@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.news-feed {
+  background-color: red;
+}
+
+.currency-converter {
+  background-color: blue;
+}
