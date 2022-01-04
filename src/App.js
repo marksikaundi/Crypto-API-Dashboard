@@ -1,3 +1,5 @@
+import NewsFeed from "./components/NewsFeed"
+import CurrencyConveter from "./components/CurrencyConveter"
 
 const App = () => {
   return (
